@@ -20,7 +20,9 @@
             <li>Tecnologie</li>
             <li>Domande frequenti</li>
         </ul>
+        <hr>
     </header>
+    
     <?php
         $arrayDomandeFrequenti = [
             [
